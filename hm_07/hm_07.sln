@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyOne", "AssemblyOne\AssemblyOne.csproj", "{5269DC2D-9919-4899-AA36-A8A350591798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyTwo", "AssemblyTwo\AssemblyTwo.csproj", "{FAC2ACB4-BF2D-4AA0-B50E-05AD5AD08E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5269DC2D-9919-4899-AA36-A8A350591798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5269DC2D-9919-4899-AA36-A8A350591798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5269DC2D-9919-4899-AA36-A8A350591798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5269DC2D-9919-4899-AA36-A8A350591798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC2ACB4-BF2D-4AA0-B50E-05AD5AD08E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC2ACB4-BF2D-4AA0-B50E-05AD5AD08E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC2ACB4-BF2D-4AA0-B50E-05AD5AD08E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC2ACB4-BF2D-4AA0-B50E-05AD5AD08E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECFBBEC2-D86E-48A6-8DE1-78C53A6044E5}
+	EndGlobalSection
+EndGlobal
